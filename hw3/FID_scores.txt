@@ -1,0 +1,24 @@
+FID
+
+
+vae
+
+vae_50epoch	47244.54
+vae_220epoch	37979.75
+
+
+
+gan (different models) 
+40		81706.84
+100		31430.30
+150		58253.44 (fake images generated are the best)
+400		17978.08
+500		43643.15
+600		20547.58
+
+
+test_1000	56903.61
+train_1000	79265.73
+
+self_self	0
+
